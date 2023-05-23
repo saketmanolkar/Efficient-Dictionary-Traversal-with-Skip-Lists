@@ -1,0 +1,59 @@
+Microsoft Windows [Version 10.0.22000.652]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\Admin>cd "C:\Users\Admin\Desktop\DSA Final Project
+
+C:\Users\Admin\Desktop\DSA Final Project>python FinalProjectPart1.py
+Successfully inserted key 3
+Successfully inserted key 6
+Successfully inserted key 7
+Successfully inserted key 9
+Successfully inserted key 12
+Successfully inserted key 19
+Successfully inserted key 17
+Successfully inserted key 26
+Successfully inserted key 21
+Successfully inserted key 25
+
+*****Skip List******
+count: 10
+Level 0:  3 6 7 9 12 17 19 21 25 26
+Level 1:  3 12 17 25 26
+Level 2:  3 12 25 26
+Level 3:  12 26
+Level 4:  26
+Level 5:  26
+List of elements in skip list after operation:  [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+number of time instances recorded After Addition: 10
+Number of Elements in Skiplist: 10
+Add time is: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+Successfully deleted 25
+Successfully deleted 3
+Successfully deleted 26
+Successfully deleted 21
+
+*****Skip List******
+count: 6
+Level 0:  6 7 9 12 17 19
+Level 1:  12 17
+Level 2:  12
+Level 3:  12
+List of elements in skip list after Operation:  [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 9, 8, 7, 6]
+number of time instances recorded After deletion operation: 4
+Number of Elements in Skiplist: 6
+Delete time is: [0.0, 0.0, 0.0, 0.0]
+This key is not present 25
+Found key  6
+This key is not present 26
+Found key  19
+This key is not present 3
+Found key  12
+
+*****Skip List******
+count: 6
+Level 0:  6 7 9 12 17 19
+Level 1:  12 17
+Level 2:  12
+Level 3:  12
+
+C:\Users\Admin\Desktop\DSA Final Project>
